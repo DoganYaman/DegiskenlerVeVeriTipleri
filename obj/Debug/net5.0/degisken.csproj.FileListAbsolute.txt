@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Pratikler\degisken\bin\Debug\net5.0\degisken.exe
+D:\PatikaDev\Patika_Pratikler\degisken\bin\Debug\net5.0\degisken.deps.json
+D:\PatikaDev\Patika_Pratikler\degisken\bin\Debug\net5.0\degisken.runtimeconfig.json
+D:\PatikaDev\Patika_Pratikler\degisken\bin\Debug\net5.0\degisken.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Pratikler\degisken\bin\Debug\net5.0\degisken.dll
+D:\PatikaDev\Patika_Pratikler\degisken\bin\Debug\net5.0\degisken.pdb
+D:\PatikaDev\Patika_Pratikler\degisken\obj\Debug\net5.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Pratikler\degisken\obj\Debug\net5.0\degisken.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Pratikler\degisken\obj\Debug\net5.0\degisken.AssemblyInfo.cs
+D:\PatikaDev\Patika_Pratikler\degisken\obj\Debug\net5.0\degisken.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Pratikler\degisken\obj\Debug\net5.0\degisken.dll
+D:\PatikaDev\Patika_Pratikler\degisken\obj\Debug\net5.0\refint\degisken.dll
+D:\PatikaDev\Patika_Pratikler\degisken\obj\Debug\net5.0\degisken.pdb
+D:\PatikaDev\Patika_Pratikler\degisken\obj\Debug\net5.0\degisken.genruntimeconfig.cache
+D:\PatikaDev\Patika_Pratikler\degisken\obj\Debug\net5.0\ref\degisken.dll
